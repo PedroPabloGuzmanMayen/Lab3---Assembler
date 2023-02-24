@@ -1,4 +1,4 @@
-import numpy as np
+
 import FunLab3 as fn
 print("Bienvenido, en este programa podrás escribir números binarios de 8 bits y convertirlos a complemento A y complemento A2, también podrás ")
 print()
